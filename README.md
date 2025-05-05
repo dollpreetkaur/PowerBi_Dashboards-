@@ -13,8 +13,8 @@ To create a comprehensive Power BI dashboard that provides:
 |-----------|-------------|
 | `Ecommerce_Dashboard.pbix` | Main Power BI dashboard file. Open with Power BI Desktop. |
 | `Ecommerce_dashboard_powerbi.pdf` | Exported PDF view of the dashboard for quick reference. |
-|'Details(1).csv'|Dataset containg details about customers.
-|'Orders(1).csv'|Dataset containg details about order(it's quantity etc.).
+|'Details (1).csv'|Dataset containg details about customers.
+|'Orders (1).csv'|Dataset containg details about order(it's quantity etc.).
 ---
 
 ## 📌 Key Features in the Dashboard
