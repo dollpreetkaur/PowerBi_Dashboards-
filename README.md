@@ -12,7 +12,7 @@ To create a comprehensive Power BI dashboard that provides:
 | File Name | Description |
 |-----------|-------------|
 | [`Ecommerce_Dashboard.pbix`](https://github.com/dollpreetkaur/PowerBi_Dashboards-/blob/main/Ecommerce_dashboard_powerbi.pbix) | Main Power BI dashboard file. Open with Power BI Desktop. |
-| [`Ecommerce_dashboard_powerbi.pdf`]() | Exported PDF view of the dashboard for quick reference. |
+| [`Ecommerce_dashboard_powerbi.pdf`](https://github.com/dollpreetkaur/PowerBi_Dashboards-/blob/main/Ecommerce_dashboard_powerbi.pdf) | Exported PDF view of the dashboard for quick reference.But,slicers will not work in this. |
 |['Details (1).csv'](https://github.com/dollpreetkaur/PowerBi_Dashboards-/blob/main/Details%20(1).csv)|Dataset containg details about customers.|
 |['Orders (1).csv'](https://github.com/dollpreetkaur/PowerBi_Dashboards-/blob/main/Orders%20(1).csv)|Dataset containg details about order(it's quantity etc.).|
 ---
